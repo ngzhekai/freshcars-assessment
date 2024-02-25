@@ -84,3 +84,5 @@ API Endpoints can also be viewed through the FastAPI Interactive API docs
 Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 > ensure the backend server is up and running.
+
+![](./doc/fastapiInteractiveDoc.png)
