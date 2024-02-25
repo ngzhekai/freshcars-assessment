@@ -1,4 +1,4 @@
-# Fresh Cars Assessment
+# Full Stack Developer Assessment
 
 ### Database Schema
 
